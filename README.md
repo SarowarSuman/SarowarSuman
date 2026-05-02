@@ -1,11 +1,39 @@
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://i.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SarowarSuman&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarowarSuman&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
-<h2 align="center">A Life Full of Motion 🎥✈️</h2>
+## 🔥 Contribution Streak
+
 <p align="center">
-  I love videography, photography, travel, editing — 
-  and building software that feels simple and real.
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SarowarSuman&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+</p>
+
+## 🚀 Activity Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SarowarSuman&theme=tokyo-night&hide_border=true"  
+  />
+</p>
+
+## 🧩 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=SarowarSuman&theme=tokyonight&margin-w=15&margin-h=15" 
+  />
 </p>
 
 
