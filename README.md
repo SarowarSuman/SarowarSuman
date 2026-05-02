@@ -1,12 +1,14 @@
+<!-- Hero Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="600" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlrbW85ZWt1Y2d1cWJmbW9ybHB2cXZqNmtnaW1tMnJlcGdlN3VtOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wvQIqJyNBOC8Q/giphy.gif" width="100%" />
 </p>
 
-<h2 align="center">🎥 Creative Soul | 📸 Visual Thinker | 🌍 Free Spirit</h2>
+<h2 align="center">Hi, I'm Suman 👋</h2>
+<p align="center">Less coding. More creating. Living like a floating camera.</p>
 
 <p align="center">
-I capture moments, craft visuals, edit stories, and try to live life like an open sky.  
-Less typing, more creating. Less stress, more flying.
+  I build thoughtful software, design cinematic presentations, capture stories through a lens, 
+  and enjoy the simple freedom of flying through life.
 </p>
 
 
