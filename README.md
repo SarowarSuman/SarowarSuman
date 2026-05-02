@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://media2.giphy.com/media/1hMe7p39x1oYT7t5fx/giphy.gif" alt="IBM Think" width="480"/>
-</p>
-
+![IBM Think](https://media2.giphy.com/media/1hMe7p39x1oYT7t5fx/giphy.gif)
 
 
 
