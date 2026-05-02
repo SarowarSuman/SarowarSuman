@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://media2.giphy.com/media/1hMe7p39x1oYT7t5fx/giphy.gif" alt="IBM Think 3D" width="480"/>
-  </a>
+  <img src="https://media2.giphy.com/media/1hMe7p39x1oYT7t5fx/giphy.gif" alt="IBM Think" width="480"/>
 </p>
 
 
