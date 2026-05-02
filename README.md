@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjAydzJybGloMjd6d2l5ajBlYTNxZWJkd2N2MnRnNTNwbnhqcTRtMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ofSB3I6q3Pj1pVJhm/giphy.gif" width="100%" />
+  <img src="https://i.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
 </p>
 
-<h2 align="center">Suman — Creator • Thinker • Explorer</h2>
+<h2 align="center">A Life Full of Motion 🎥✈️</h2>
 <p align="center">
-  Mixing tech, design, visuals, and curiosity to build meaningful things.
+  I love videography, photography, travel, editing — 
+  and building software that feels simple and real.
 </p>
 
 
