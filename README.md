@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/1hMe7p39x1oYT7t5fx.gif" width="600"/>
+![Demo GIF](https://i.giphy.com/1hMe7p39x1oYT7t5fx.gif)
 
 
 
