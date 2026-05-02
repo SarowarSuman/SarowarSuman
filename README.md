@@ -1,14 +1,10 @@
-<!-- Hero Banner -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlrbW85ZWt1Y2d1cWJmbW9ybHB2cXZqNmtnaW1tMnJlcGdlN3VtOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wvQIqJyNBOC8Q/giphy.gif" width="100%" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjAydzJybGloMjd6d2l5ajBlYTNxZWJkd2N2MnRnNTNwbnhqcTRtMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ofSB3I6q3Pj1pVJhm/giphy.gif" width="100%" />
 </p>
 
-<h2 align="center">Hi, I'm Suman 👋</h2>
-<p align="center">Less coding. More creating. Living like a floating camera.</p>
-
+<h2 align="center">Suman — Creator • Thinker • Explorer</h2>
 <p align="center">
-  I build thoughtful software, design cinematic presentations, capture stories through a lens, 
-  and enjoy the simple freedom of flying through life.
+  Mixing tech, design, visuals, and curiosity to build meaningful things.
 </p>
 
 
