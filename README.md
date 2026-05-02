@@ -1,5 +1,4 @@
-# 💫 About Me:
-I am currently working on the Self project: Campus Food Pre-Order system. also I developed Hand Tracked Particle Project, Vehicle Speed Tracker & many more.<br>I am currently Learning Python with Django and Numpy, pandas.<br>Ask me about tech, editing, world current's situation, videography, deep things(little paranormal) and many more.<br>I love travelling, watching Movie.<br>I am currently working with bdapps & Kryzotech. I am the campus ambassador of these Company.<br>I love Videography & Editing also i designed the Infographics Powerpoint Slides.
+![3D Header](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 
 # 💻 Tech Stack:
