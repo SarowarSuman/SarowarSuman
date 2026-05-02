@@ -1,4 +1,13 @@
-![3D Header](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="600" />
+</p>
+
+<h2 align="center">🎥 Creative Soul | 📸 Visual Thinker | 🌍 Free Spirit</h2>
+
+<p align="center">
+I capture moments, craft visuals, edit stories, and try to live life like an open sky.  
+Less typing, more creating. Less stress, more flying.
+</p>
 
 
 # 💻 Tech Stack:
