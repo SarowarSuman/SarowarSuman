@@ -1,6 +1,7 @@
-![Header] (https://giphy.com/gifs/ibm-socialmedia-think-ibm-think2019-1hMe7p39x1oYT7t5fx/giphy.gif)
-
-          Just Do It!
+<div align="center">
+  <img src="https://media.giphy.com/media/1hMe7p39x1oYT7t5fx/giphy.gif" alt="IBM Think 2019 Tech" width="600">
+  <p><strong>IBM Think 2019</strong></p>
+</div>
 
 
 
